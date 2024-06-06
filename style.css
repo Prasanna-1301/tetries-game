@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #202028;
+    color:#fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+canvas{
+    border: solid 0.2em #fff;
+    height: 90vh;
+}
